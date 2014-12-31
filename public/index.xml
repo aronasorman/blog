@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on my new hugo site </title>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2014-12-30 06:47:06 -0800 PST</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 30 Dec 2014 06:47:06 PST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2014: A review</title>
+      <link>http://localhost:1313/blog/2014_review/</link>
+      <pubDate>Tue, 30 Dec 2014 06:47:06 PST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://localhost:1313/blog/2014_review/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;March: Finally authorized to work&lt;/li&gt;
+&lt;li&gt;Feb: Visited Idaho, and went inside a prison&lt;/li&gt;
+&lt;li&gt;June: Went back to PH&lt;/li&gt;
+&lt;li&gt;Became Software Dev Lead&lt;/li&gt;
+&lt;li&gt;Earned my own money&lt;/li&gt;
+&lt;li&gt;Saw Texas and a a glimpse of Japan&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
