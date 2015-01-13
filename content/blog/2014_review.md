@@ -89,6 +89,10 @@ I'll write about it in a future blog post.
 
 ### Texas (December)
 
+If I thought San Diego was already spread out, I was not prepared at
+all for the famous Texas "sprawl". Everything was so... far away. Not
+to mention having to drive to get almost anywhere.
+
 - Intro
 Moments:
 - Saw snow!
