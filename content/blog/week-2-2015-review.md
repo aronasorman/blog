@@ -31,6 +31,17 @@ title = "week 2 2015 review"
   encountered
   [Brian Kernighan's bit-counting algorithm](http://stackoverflow.com/questions/12380478/bits-counting-algorithm-brian-kernighan-in-an-integer-time-complexity).
 
-- It was the first time I used Git's [reflog]() feature in the
+- It was the first time I used Git's [reflog](http://git-scm.com/docs/git-reflog) feature in the
   wild. Glad to have finally used it by helping a co-worker restore
   their tree to a state before a fast-forward.
+
+- I've started experimenting with FreeBSD on my downtime after work,
+  by installing the
+  [VMWare image](ftp://ftp.freebsd.org/pub/FreeBSD/releases/VM-IMAGES/10.1-RELEASE/amd64/Latest/)
+  and reading the FreeBSD handbook. The handbook is a treasure trove
+  of of Unix command line knowledge. Some things I learned just by
+  reading it:
+
+    - The executable permission for a directory means it can be `cd`'ed. Never knew about this 'til today.
+
+    - Nor did I learn the full symbolic permissions syntax used by `chmod` 'til now.
