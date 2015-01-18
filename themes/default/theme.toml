@@ -1,6 +1,6 @@
 name = "AlexFinn"
 license = "MIT"
-source_repo = "https://github.com/AlexFinn/simple-a"
+source_repo = "https://github.com/aronasorman/blog"
 author = "alexfinn"
 description = "Minimalistic Hugo theme"
 tags = ["blog", "company"]
