@@ -46,3 +46,9 @@ title = "week 2 2015 review"
     - The executable permission for a directory means it can be `cd`'ed. Never knew about this 'til today.
 
     - Nor did I learn the full symbolic permissions syntax used by `chmod` 'til now.
+
+
+  So far it's been experimentation with the VM for now, but one
+  milestone I'm looking to reach is to be able to do some work-related
+  programming in FreeBSD eventually, and at least be able to know the
+  nuances of FreeBSD to be able to use it effectively as a server.
