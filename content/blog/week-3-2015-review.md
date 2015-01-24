@@ -15,10 +15,21 @@ title = "week 3 2015 review"
   it's nice to know that I'm strong enough again to take that 16 mile
   long bike ride.
 
+- Tried mountain climbing for the first time. The first time you start
+  getting high up the wall is really scary. Despite knowing there's
+  someone there to catch you, there's that fear that anytime you slip
+  up you'll fall down 10-15 feet down below.
+
 ## Learnings
 
 - Still learning FreeBSD on my spare time. FreeBSD has some simple IDS
   tools builtin to it. One of the builtin tools is called [mtree](),
   a file integrity checker. (Expand on mtree)
 
--
+- Python has some pretty good builtin tools for discovering and
+  running tests. It has great functions for
+  [discovering](https://docs.python.org/2/library/unittest.html#unittest.TestLoader.loadTestsFromNames)
+  [tests](https://docs.python.org/2/library/unittest.html#unittest.TestLoader.discover),
+  as well as
+  [running](https://docs.python.org/2/library/unittest.html#unittest.TestLoader.discover)
+  those tests.
