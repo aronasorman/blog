@@ -7,7 +7,7 @@ title = "week 3 2015 review"
 
 # W3 2015 review
 
-# General Events
+## General Events
 
 - I finally achieved my short-term goal of biking all the way from
   home to work. It's been my fear ever since I've taken a two-month
@@ -19,6 +19,13 @@ title = "week 3 2015 review"
   getting high up the wall is really scary. Despite knowing there's
   someone there to catch you, there's that fear that anytime you slip
   up you'll fall down 10-15 feet down below.
+
+## Work Events
+
+- Me and a couple of my co-workers hacked on some of our side projects
+  on a weekend. I chose to port our Android APK build script to a
+  Dockerfile, so that building the APK would be as simple as
+  installing Docker for their platform, then running `make`.
 
 ## Learnings
 
