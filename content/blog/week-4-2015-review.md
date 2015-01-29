@@ -18,3 +18,16 @@ title = "week 4 2015 review"
   battery system's controller by pressing the Option+Shift+Power
   key. The day was saved. Thanks "Genius"! (I'm still slightly
   skeptical of such a label).
+
+
+- I've been trying to get into making some personal music by following
+  [Tidal's getting started page](http://tidal.lurk.org/getting_started.html). At
+  first I installed Tidal and all of its dependencies on my Linux VM,
+  but then when I try playing a sound it has this weird distorted and
+  stuttered sound coming out, no matter what audio file I play. I've
+  tried changing the QJackCtl settings as well as playing around with
+  the midi rate on OS X, but alas the stuttering sound never
+  vanished. I then tried installing it on OS X itself. It works
+  perfectly in there.
+
+  Music, here I come! (In a very slow pace)
