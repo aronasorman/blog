@@ -34,4 +34,4 @@ title = "week 7 2015 review"
 - I'll be heading out to India on Monday, Feb. 16! It's quite surreal
   honestly, as I'll be encountering yet another foreign culture. And
   though it's supposed to be a "casual business" visit, I'm sure it'll
-  feel like a vacation either way :)
+  feel like a vacation either way :) (hopefully...)
