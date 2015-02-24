@@ -1,6 +1,6 @@
 +++
 date = "2015-02-14T08:14:42-08:00"
-draft = true
+draft = false
 title = "week 7 2015 review"
 
 +++
